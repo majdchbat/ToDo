@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./app.css";
-import TaskForm from "./components/taskForm";
+import TaskForm from "./components/TaskForm";
 import TaskColumn from "./components/TaskColumn";
 import TodoIcon from "./assets/direct-hit.png";
 import DoingIcon from "./assets/star.png";
